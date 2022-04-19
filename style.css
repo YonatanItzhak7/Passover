@@ -239,12 +239,12 @@ background-color: rgba(255, 255, 255, 0.555);
 }
 
 @keyframes shoe {
-  17% {background-image: url(/Shoes/Airmax90.jpg);}
-  34% {background-image: url(/Shoes/Airmax97.jpg);}
-  51% {background-image: url(/Shoes/Airmax98.jpg);}
-  68% {background-image: url(/Shoes/Jordan1.jpg);}
-  85% {background-image: url(/Shoes/Jordan4.jpg);}
-  100% {background-image: url(/Shoes/Airmax90.jpg);}
+  17% {background-image: url(Airmax90.jpg);}
+  34% {background-image: url(Airmax97.jpg);}
+  51% {background-image: url(Airmax98.jpg);}
+  68% {background-image: url(Jordan1.jpg);}
+  85% {background-image: url(Jordan4.jpg);}
+  100% {background-image: url(Airmax90.jpg);}
 
 }
 
